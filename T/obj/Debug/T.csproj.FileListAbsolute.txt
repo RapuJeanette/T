@@ -1,0 +1,13 @@
+D:\Programacion Grafica\Prueba\1-2024\T\T\bin\Debug\T.exe.config
+D:\Programacion Grafica\Prueba\1-2024\T\T\bin\Debug\T.exe
+D:\Programacion Grafica\Prueba\1-2024\T\T\bin\Debug\T.pdb
+D:\Programacion Grafica\Prueba\1-2024\T\T\bin\Debug\OpenTK.dll
+D:\Programacion Grafica\Prueba\1-2024\T\T\bin\Debug\OpenTK.pdb
+D:\Programacion Grafica\Prueba\1-2024\T\T\bin\Debug\OpenTK.xml
+D:\Programacion Grafica\Prueba\1-2024\T\T\obj\Debug\T.csproj.AssemblyReference.cache
+D:\Programacion Grafica\Prueba\1-2024\T\T\obj\Debug\T.Properties.Resources.resources
+D:\Programacion Grafica\Prueba\1-2024\T\T\obj\Debug\T.csproj.GenerateResource.cache
+D:\Programacion Grafica\Prueba\1-2024\T\T\obj\Debug\T.csproj.CoreCompileInputs.cache
+D:\Programacion Grafica\Prueba\1-2024\T\T\obj\Debug\T.csproj.Up2Date
+D:\Programacion Grafica\Prueba\1-2024\T\T\obj\Debug\T.exe
+D:\Programacion Grafica\Prueba\1-2024\T\T\obj\Debug\T.pdb
